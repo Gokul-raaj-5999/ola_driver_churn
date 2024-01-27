@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-from sklearn import tree
 import streamlit as st
 import re
 import seaborn as sns
